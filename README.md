@@ -11,3 +11,6 @@ observed likelihood 곡선에 한점에 접하면서 jensen's inequality 로 매
 해당 categorical case 경우 obs likelihood 는 당연히 partial info 에서 얻을 수 없는 parameter는 full info data로만 계산하듯
 EM 방법 역시 그와 정확히 논리가 같음으로 결과도 당연히 iteration에 의해 그러한 정보들은 더이상 update 안됨
 [ex) (y1, y2) case 에서 y1|y2 같은 정보는 partial 로 update 안됨]
+
+
+![derivation](/readme.png)
